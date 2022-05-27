@@ -13,8 +13,7 @@
 The purpose of this project consist in analyze disaster data from Appen to build a model for an API that classifies disaster messages.
 
 ## File descriptions
-- messages.csv: dataset with the disaster messages.
-- categories.csv: dataset with the categories of the disaster messages.
+- Data: folder with the datasets messages.csv and categories.csv.
 - [ETL Pipeline Preparation.ipynb](https://github.com/gutorres93/udacity_p2/blob/main/ETL%20Pipeline%20Preparation.ipynb): a python script with the data cleaning pipeline.
 - [ML Pipeline Preparation.ipynb](https://github.com/gutorres93/udacity_p2/blob/main/ML%20Pipeline%20Preparation.ipynb): a  python script with the machine learning pipeline.
 
