@@ -1,20 +1,22 @@
 # Udacity P2: Disaster Response Pipeline
 
 ## Libraries
-- Pandas (v. 1.3.5)
-- Numpy (v. 1.21.5)
-- Sklearn (v. 1.0.2)
-- Matplotlib (v. 3.2.2)
+- Pandas.
+- Numpy.
+- Sklearn.
+- Re.
+- Nltk.
+- Sqlalchemy.
+- Pickle.
 
 ## Project motivation
 The purpose of this project consist in analyze disaster data from Appen to build a model for an API that classifies disaster messages.
 
 ## File descriptions
-
-- process_data.py: a python script with the data cleaning pipeline.
-- train_classifier.py: a  python script with the machine learning pipeline.
-
-## Results
+- messages.csv: dataset with the disaster messages.
+- categories.csv: dataset with the categories of the disaster messages.
+- [ETL Pipeline Preparation.ipynb](https://github.com/gutorres93/udacity_p2/blob/main/ETL%20Pipeline%20Preparation.ipynb): a python script with the data cleaning pipeline.
+- [ML Pipeline Preparation.ipynb](https://github.com/gutorres93/udacity_p2/blob/main/ML%20Pipeline%20Preparation.ipynb): a  python script with the machine learning pipeline.
 
 ## Licensing, Authors, Acknowledgements
 
